@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nooshiapu.merrymerkle.africa/sitemap.xml
